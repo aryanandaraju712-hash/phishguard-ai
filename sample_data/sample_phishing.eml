@@ -1,0 +1,18 @@
+From: IT Security Helpdesk <security@internal-it-support-notice.com>
+To: employee@smallbiz.org
+Subject: CRITICAL: Unauthorized sign-in attempt detected on your corporate account
+Date: Fri, 09 Oct 2026 13:00:00 +0000
+Content-Type: text/plain; charset="UTF-8"
+
+CRITICAL SECURITY WARNING:
+
+Our automated security telemetry detected an unauthorized sign-in attempt to your corporate account from an unknown IP address in Moscow, Russia.
+
+Your account access will be deactivated and suspended within 24 hours unless you immediately verify your credentials and authenticate your account.
+
+Click below to verify your account:
+http://login.security-verification-portal.xyz/verify-auth
+
+If you do not verify within 24 hours, all corporate access will be revoked permanently.
+
+IT Corporate Security Operations
